@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋, Kiki Daza
+#### I am a front-end developer and designer
+![I am a front-end developer and designer]()
 
-<!--
-**ccfwd/ccfwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Touring musician turned developer who is passionate about clean code and interactive apps. 
 
-Here are some ideas to get you started:
+Skills: WORDPRESS/ FIGMA / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Completing my Front-End Dev Course 
+- 🌱 I’m currently learning React JS 
+- 💬 Ask me about my UX/UI background  
+- ⚡ Fun fact: I'm super fun to work with 
+
+
+
+
+
