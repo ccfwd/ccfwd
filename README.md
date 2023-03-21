@@ -5,7 +5,7 @@ Touring musician turned developer who is passionate about clean code and interac
 
 #### Skills: REACT / JS / HTML / CSS / WORDPRESS / FIGMA / UX+UI 
 
-![I am a front-end developer and designer](https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80)
+![I am a front-end developer and designer](https://images.unsplash.com/photo-1603468620905-8de7d86b781e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=350)
 
 
 - 🔭 I’m currently working on completing my Front-End Development Course with Computer Coach
