@@ -15,6 +15,9 @@ Touring musician turned developer who is passionate about clean code and interac
 
 ![This is my profile banner](https://github.com/ccfwd/ccfwd/blob/main/github-banner-example.png?raw=true)
 
+![This is my bros](https://github.com/ccfwd/ccfwd/blob/main/bros.jpeg?raw=true)
+
+
 
 
 
