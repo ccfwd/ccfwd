@@ -1,7 +1,5 @@
 # Hi there 👋! This is my Computer Coach Profile Example
-#### I am a front-end developer who is...
-
-Touring musician turned developer who is passionate about clean code and interactive apps. 
+#### I am a front-end developer who is passionate about clean code and interactive apps. 
 
 #### Skills: REACT / JS / HTML / CSS / WORDPRESS / FIGMA / UX+UI 
 
